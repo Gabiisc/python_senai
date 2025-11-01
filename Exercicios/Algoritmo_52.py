@@ -2,7 +2,7 @@ import os
 os.system('cls')
 import math
 
-lado_quadrado = int(input("Informe o lado do quadrado: "))
+lado_quadrado = float(input("Informe o lado do quadrado: "))
 
 perimetro = lado_quadrado * lado_quadrado
 area = lado_quadrado * 4
